@@ -15,8 +15,8 @@
     url = https://github.com/pavel1shatalov/fillit
 
 [submodule "projects/get-next-line"]
-    path = projects/get-next-line
-    url = https://github.com/pavel1shatalov/get-next-line
+	path = projects/get-next-line
+	url = https://github.com/pavel1shatalov/get-next-line.git
 
 ## Algorithms
 
