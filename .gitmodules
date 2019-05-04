@@ -7,8 +7,8 @@
     url = https://github.com/pavel1shatalov/piscine-reloaded.git
 
 [submodule "projects/libft"]
-    path = projects/libft
-    url = https://github.com/pavel1shatalov/libft
+	path = projects/libft
+	url = https://github.com/pavel1shatalov/libft.git
 
 [submodule "projects/fillit"]
     path = projects/fillit
