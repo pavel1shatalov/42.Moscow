@@ -1,6 +1,6 @@
 # 42 School Moscow
 
-![42 Logo](files/resources/42-logo.png)
+![42 Logo](files/42-logo.png)
 
 ## My Projects
 
