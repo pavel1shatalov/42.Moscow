@@ -54,6 +54,3 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/pavel1shatalov/libft.git
-[submodule "get-next-line"]
-	path = get-next-line
-	url = https://github.com/pavel1shatalov/get-next-line.git
