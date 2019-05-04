@@ -3,8 +3,8 @@
 # Completed
 
 [submodule "projects/piscine-reloaded"]
-    path = projects/reloaded
-    url = https://github.com/pavel1shatalov/piscine-reloaded
+	path = projects/piscine-reloaded
+	url = https://github.com/pavel1shatalov/piscine-reloaded.git
 
 [submodule "projects/libft"]
     path = projects/libft
