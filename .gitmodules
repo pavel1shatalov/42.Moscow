@@ -1,0 +1,53 @@
+## General
+
+# Completed
+
+[submodule "projects/piscine-reloaded"]
+    path = projects/reloaded
+    url = https://github.com/pavel1shatalov/piscine-reloaded
+
+[submodule "projects/libft"]
+    path = projects/libft
+    url = https://github.com/pavel1shatalov/libft
+
+[submodule "projects/fillit"]
+    path = projects/fillit
+    url = https://github.com/pavel1shatalov/fillit
+
+[submodule "projects/get-next-line"]
+    path = projects/get-next-line
+    url = https://github.com/pavel1shatalov/get-next-line
+
+## Algorithms
+
+# Completed
+
+[submodule "projects/ft-printf"]
+    path = projects/ft-printf
+    url = https://github.com/pavel1shatalov/ft-printf
+
+# To Be Completed
+
+[submodule "projects/push-swap"]
+    path = projects/push-swap
+    url = https://github.com/pavel1shatalov/push-swap
+
+[submodule "projects/lem-in"]
+    path = projects/lem-in
+    url = https://github.com/pavel1shatalov/lem-in
+
+[submodule "projects/corewar"]
+    path = projects/corewar
+    url = https://github.com/pavel1shatalov/corewar 
+
+## Administration
+
+# To Be Completed
+
+[submodule "projects/init"]
+    path = projects/init
+    url = https://github.com/pavel1shatalov/init
+
+[submodule "projects/roger-skyline-1"]
+    path = projects/roger-skyline-1
+    url = https://github.com/pavel1shatalov_db/roger-skyine-1
