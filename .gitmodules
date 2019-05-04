@@ -23,22 +23,22 @@
 # Completed
 
 [submodule "projects/ft-printf"]
-    path = projects/ft-printf
-    url = https://github.com/pavel1shatalov/ft-printf
+	path = projects/ft-printf
+	url = https://github.com/pavel1shatalov/ft-printf.git
 
 # To Be Completed
 
 [submodule "projects/push-swap"]
     path = projects/push-swap
-    url = https://github.com/pavel1shatalov/push-swap
+    url = https://github.com/pavel1shatalov/push-swap.git
 
 [submodule "projects/lem-in"]
     path = projects/lem-in
-    url = https://github.com/pavel1shatalov/lem-in
+    url = https://github.com/pavel1shatalov/lem-in.git
 
 [submodule "projects/corewar"]
     path = projects/corewar
-    url = https://github.com/pavel1shatalov/corewar 
+    url = https://github.com/pavel1shatalov/corewar.git
 
 ## Administration
 
@@ -46,8 +46,8 @@
 
 [submodule "projects/init"]
     path = projects/init
-    url = https://github.com/pavel1shatalov/init
+    url = https://github.com/pavel1shatalov/init.git
 
 [submodule "projects/roger-skyline-1"]
     path = projects/roger-skyline-1
-    url = https://github.com/pavel1shatalov/roger-skyine-1
+    url = https://github.com/pavel1shatalov/roger-skyine-1.git
